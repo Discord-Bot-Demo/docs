@@ -6,5 +6,4 @@
 | bot_avatar        | Custom avatar for bot                               | Clyde avatar                         |
 | command_handler   | Path to commands file (without .js)                 | commandHandler                       |
 | beginning_message | Bot message to send on load                         | None                                 |
-| lightmode         | Should the demo be in light theme                   | false                                |
-| compactmode       | Should the demo be in compact mode                  | false                                |
+| lightmode         | Should the demo be in light theme                   | None                                 |
