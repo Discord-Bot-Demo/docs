@@ -3,6 +3,7 @@ site_description: 'Documentation for Discord-Bot-Demo'
 site_author: 'Cyber'
 docs_dir: docs/
 repo_url: 'https://github.com/Discord-Bot-Demo/discord-bot-demo.github.io'
+edit_uri: 'https://github.com/Discord-Bot-Demo/docs/edit/main/docs'
 nav:
     - index.md
     - usage.md
